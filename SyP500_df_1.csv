@@ -1,0 +1,501 @@
+,Symbol,Close_21,Close_19,Security,GICS Sector,GICS Sub-Industry,Headquarters Location,Founded
+0,MMM,176.5500030517578,175.8300018310547,3M,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1902
+1,ABT,132.4199981689453,86.80000305175781,Abbott Laboratories,Health Care,Health Care Equipment,"North Chicago, Illinois",1888
+2,ABBV,121.51000213623047,88.5199966430664,AbbVie,Health Care,Pharmaceuticals,"North Chicago, Illinois",2013 (1888)
+3,ABMD,320.7799987792969,167.2899932861328,Abiomed,Health Care,Health Care Equipment,"Danvers, Massachusetts",1981
+4,ACN,371.3399963378906,210.63999938964844,Accenture,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",1989
+5,ATVI,58.77000045776367,58.880001068115234,Activision Blizzard,Communication Services,Interactive Home Entertainment,"Santa Monica, California",2008
+6,ADBE,649.9600219726562,328.3399963378906,Adobe,Information Technology,Application Software,"San Jose, California",1982
+7,AMD,144.85000610351562,45.52000045776367,Advanced Micro Devices,Information Technology,Semiconductors,"Santa Clara, California",1969
+8,AAP,234.9499969482422,159.1199951171875,Advance Auto Parts,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",1932
+9,AES,24.81999969482422,20.040000915527344,AES Corp,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1981
+10,AFL,56.709999084472656,52.7400016784668,Aflac,Financials,Life & Health Insurance,"Columbus, Georgia",1955
+11,A,153.8000030517578,84.9000015258789,Agilent Technologies,Health Care,Health Care Equipment,"Santa Clara, California",1999
+12,APD,295.92999267578125,235.3300018310547,Air Products & Chemicals,Materials,Industrial Gases,"Allentown, Pennsylvania",1940
+13,AKAM,112.2699966430664,85.87999725341797,Akamai Technologies,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",1998
+14,ALK,50.349998474121094,67.68000030517578,Alaska Air Group,Industrials,Airlines,"Seattle, Washington",1985
+15,ALB,259.5299987792969,71.93000030517578,Albemarle Corporation,Materials,Specialty Chemicals,"Charlotte, North Carolina",1994
+16,ARE,210.72000122070312,159.6699981689453,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",1994
+17,ALGN,666.719970703125,275.6300048828125,Align Technology,Health Care,Health Care Supplies,"San Jose, California",1997
+18,ALLE,131.74000549316406,124.12000274658203,Allegion,Industrials,Building Products,"New York City, New York",1908
+19,LNT,58.33000183105469,54.380001068115234,Alliant Energy,Utilities,Electric Utilities,"Madison, Wisconsin",1917
+20,ALL,110.23999786376953,111.7699966430664,Allstate Corp,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",1931
+21,GOOGL,2945.389892578125,1339.7099609375,Alphabet (Class A),Communication Services,Interactive Media & Services,"Mountain View, California",1998
+22,GOOG,2960.72998046875,1336.1400146484375,Alphabet (Class C),Communication Services,Interactive Media & Services,"Mountain View, California",1998
+23,MO,44.4900016784668,49.88999938964844,Altria Group,Consumer Staples,Tobacco,"Richmond, Virginia",1985
+24,AMZN,3523.2900390625,1846.8900146484375,Amazon,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",1994
+25,AMCR,11.59000015258789,10.850000381469727,Amcor,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",2019 (1860)
+26,AEE,86.52999877929688,76.55999755859375,Ameren Corp,Utilities,Multi-Utilities,"St. Louis, Missouri",1902
+27,AAL,17.889999389648438,28.299999237060547,American Airlines Group,Industrials,Airlines,"Fort Worth, Texas",1934
+28,AEP,83.91000366210938,94.02999877929688,American Electric Power,Utilities,Electric Utilities,"Columbus, Ohio",1906
+29,AXP,166.9499969482422,124.30000305175781,American Express,Financials,Consumer Finance,"New York City, New York",1850
+30,AIG,55.189998626708984,51.0,American International Group,Financials,Property & Casualty Insurance,"New York City, New York",1919
+31,AMT,276.80999755859375,228.85000610351562,American Tower,Real Estate,Specialized REITs,"Boston, Massachusetts",1995
+32,AWK,176.52000427246094,123.05000305175781,American Water Works,Utilities,Water Utilities,"Camden, New Jersey",1886
+33,AMP,301.5799865722656,166.07000732421875,Ameriprise Financial,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",1894
+34,ABC,119.5199966430664,83.63999938964844,AmerisourceBergen,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",1985
+35,AME,140.39999389648438,99.93000030517578,Ametek,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",1930
+36,AMGN,211.32000732421875,240.27000427246094,Amgen,Health Care,Biotechnology,"Thousand Oaks, California",1980
+37,APH,83.8499984741211,108.27999877929688,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",1932
+38,ADI,186.63999938964844,118.86000061035156,Analog Devices,Information Technology,Semiconductors,"Wilmington, Massachusetts",1965
+39,ANSS,403.6000061035156,256.79998779296875,Ansys,Information Technology,Application Software,"Canonsburg, Pennsylvania",1969
+40,ANTM,411.239990234375,305.30999755859375,Anthem,Health Care,Managed Health Care,"Indianapolis, Indiana",2014 (1946)
+41,AON,300.7099914550781,207.63999938964844,Aon,Financials,Insurance Brokers,"London, UK",1982 (1919)
+42,AOS,82.88999938964844,47.56999969482422,A. O. Smith,Industrials,Building Products,"Milwaukee, Wisconsin",1916
+43,APA,26.889999389648438,25.5,APA Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1954
+44,AAPL,171.17999267578125,291.5199890136719,Apple,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1977
+45,AMAT,156.88999938964844,60.93000030517578,Applied Materials,Information Technology,Semiconductor Equipment,"Santa Clara, California",1967
+46,APTV,167.6199951171875,95.25,Aptiv,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",1994
+47,ADM,64.16000366210938,46.119998931884766,ADM,Consumer Staples,Agricultural Products,"Chicago, Illinois",1902
+48,ANET,126.30999755859375,203.1300048828125,Arista Networks,Information Technology,Communications Equipment,"Santa Clara, California",2004
+49,AJG,169.67999267578125,94.9000015258789,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,"Rolling Meadows, Illinois",1927
+50,AIZ,155.97999572753906,130.8000030517578,Assurant,Financials,Multi-line Insurance,"New York City, New York",1892
+51,T,23.079999923706055,39.040000915527344,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983 (1885)
+52,ATO,94.87999725341797,110.47000122070312,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",1906
+53,ADSK,276.70001220703125,183.3000030517578,Autodesk,Information Technology,Application Software,"San Rafael, California",1982
+54,ADP,235.1300048828125,169.58999633789062,Automatic Data Processing,Information Technology,Data Processing & Outsourced Services,"Roseland, New Jersey",1949
+55,AZO,2023.5699462890625,1183.25,AutoZone,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1979
+56,AVB,241.22999572753906,207.6199951171875,AvalonBay Communities,Real Estate,Residential REITs,"Arlington, Virginia[3]",1978
+57,AVY,215.2100067138672,130.97999572753906,Avery Dennison,Materials,Paper Packaging,"Glendale, California",1990
+58,BKR,24.420000076293945,25.6299991607666,Baker Hughes,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017
+59,BLL,93.44999694824219,64.44000244140625,Ball Corp,Materials,Metal & Glass Containers,"Broomfield, Colorado",1880
+60,BAC,44.709999084472656,35.150001525878906,Bank of America,Financials,Diversified Banks,"Charlotte, North Carolina",1998 (1923 / 1874)
+61,BBWI,75.94999694824219,18.06999969482422,Bath & Body Works,Consumer Discretionary,Specialty Stores,"Columbus, Ohio",1963
+62,BAX,79.87999725341797,83.43000030517578,Baxter International,Health Care,Health Care Equipment,"Deerfield, Illinois",1931
+63,BDX,250.36000061035156,270.5199890136719,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1897
+64,BBY,106.68000030517578,87.56999969482422,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1966
+65,BIO,752.3699951171875,369.6400146484375,Bio-Rad Laboratories,Health Care,Life Sciences Tools & Services,"Hercules, California",1952
+66,TECH,472.9599914550781,217.4600067138672,Bio-Techne,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",1976
+67,BIIB,226.8300018310547,296.010009765625,Biogen,Health Care,Biotechnology,"Cambridge, Massachusetts",1978
+68,BLK,920.9199829101562,500.8399963378906,BlackRock,Financials,Asset Management & Custody Banks,"New York City, New York",1988
+69,BK,56.130001068115234,50.18000030517578,BNY Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",1784
+70,BA,208.8300018310547,326.3999938964844,Boeing,Industrials,Aerospace & Defense,"Chicago, Illinois",1916
+71,BKNG,2245.030029296875,2053.8701171875,Booking Holdings,Consumer Discretionary,Internet & Direct Marketing Retail,"Norwalk, Connecticut",1996
+72,BWA,45.54999923706055,43.400001525878906,BorgWarner,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",1880
+73,BXP,115.18000030517578,136.6699981689453,Boston Properties,Real Estate,Office REITs,"Boston, Massachusetts",1970
+74,BSX,41.400001525878906,44.9900016784668,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts[4]",1979
+75,BMY,57.130001068115234,63.72999954223633,Bristol Myers Squibb,Health Care,Health Care Distributors,"New York City, New York",1989
+76,AVGO,590.4000244140625,313.4599914550781,Broadcom,Information Technology,Semiconductors,"San Jose, California",1961
+77,BR,174.22000122070312,122.79000091552734,Broadridge Financial Solutions,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",1962
+78,BRO,67.05000305175781,39.36000061035156,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",1939
+79,CHRW,98.29000091552734,77.54000091552734,C. H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",1905
+80,CDNS,182.77000427246094,69.98999786376953,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",1988
+81,CZR,90.37999725341797,59.0099983215332,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",1973
+82,CPB,41.119998931884766,49.25,Campbell Soup,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1869
+83,COF,148.5800018310547,102.63999938964844,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",1994
+84,CAH,48.099998474121094,50.77000045776367,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1971
+85,KMX,149.91000366210938,87.43000030517578,CarMax,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",1993
+86,CCL,18.5,51.02000045776367,Carnival Corporation,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1972
+87,CTLT,123.48999786376953,56.63999938964844,Catalent,Health Care,Pharmaceuticals,"Somerset, New Jersey",2007
+88,CAT,204.49000549316406,147.52000427246094,Caterpillar,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",1925
+89,CBOE,130.97000122070312,119.25,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",1973
+90,CBRE,102.30999755859375,61.040000915527344,CBRE,Real Estate,Real Estate Services,"Dallas, Texas",1906
+91,CDW,198.2100067138672,142.77999877929688,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",1984
+92,CE,159.85000610351562,122.69999694824219,Celanese,Materials,Specialty Chemicals,"Irving, Texas",1918
+93,CNC,73.4000015258789,63.040000915527344,Centene,Health Care,Managed Health Care,"St. Louis, Missouri",1984
+94,CNP,27.8799991607666,26.90999984741211,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",1882
+95,CDAY,106.86000061035156,68.01000213623047,Ceridian,Information Technology,Application Software,"Minneapolis, Minnesota",1992
+96,CERN,73.77999877929688,73.11000061035156,Cerner,Health Care,Health Care Technology,"North Kansas City, Missouri",1979
+97,CF,60.02000045776367,47.36000061035156,CF Industries,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",1946
+98,CRL,366.75,151.83999633789062,Charles River Laboratories,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",1947
+99,SCHW,81.30999755859375,47.81999969482422,Charles Schwab,Financials,Investment Banking & Brokerage,"Westlake, Texas",1971
+100,CHTR,650.5999755859375,483.0799865722656,Charter Communications,Communication Services,Cable & Satellite,"Stamford, Connecticut",1993
+101,CVX,117.91999816894531,119.8499984741211,Chevron,Energy,Integrated Oil & Gas,"San Ramon, California",1879
+102,CMG,1711.739990234375,836.0700073242188,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,"Newport Beach, California",1993
+103,CB,188.0399932861328,155.30999755859375,Chubb,Financials,Property & Casualty Insurance,"Zurich, Switzerland",1985
+104,CHD,92.94000244140625,70.3499984741211,Church & Dwight,Consumer Staples,Household Products,"Ewing, New Jersey",1847
+105,CI,207.97000122070312,202.97000122070312,Cigna,Health Care,Managed Health Care,"Bloomfield, Connecticut",1982
+106,CINF,117.76000213623047,104.44000244140625,Cincinnati Financial,Financials,Property & Casualty Insurance,"Fairfield, Ohio",1950
+107,CTAS,446.0199890136719,268.3599853515625,Cintas Corporation,Industrials,Diversified Support Services,"Mason, Ohio",1929
+108,CSCO,58.08000183105469,47.59000015258789,Cisco Systems,Information Technology,Communications Equipment,"San Jose, California",1984
+109,C,62.900001525878906,79.51000213623047,Citigroup,Financials,Diversified Banks,"New York City, New York",1998
+110,CFG,48.33000183105469,40.43000030517578,Citizens Financial Group,Financials,Regional Banks,"Providence, Rhode Island",1828
+111,CTXS,80.86000061035156,110.36000061035156,Citrix Systems,Information Technology,Application Software,"Fort Lauderdale, Florida",1989
+112,CLX,165.25999450683594,152.8800048828125,Clorox,Consumer Staples,Household Products,"Oakland, California",1913
+113,CME,231.25,199.17999267578125,CME Group,Financials,Financial Exchanges & Data,"Chicago, Illinois",1848
+114,CMS,62.029998779296875,62.59000015258789,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",1886
+115,KO,55.209999084472656,55.27000045776367,Coca-Cola,Consumer Staples,Soft Drinks,"Atlanta, Georgia",1886
+116,CTSH,81.44999694824219,61.650001525878906,Cognizant Technology Solutions,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",1994
+117,CL,77.80999755859375,68.79000091552734,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1806
+118,CMCSA,49.58000183105469,45.18000030517578,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",1963
+119,CMA,85.55999755859375,71.4000015258789,Comerica,Financials,Diversified Banks,"Dallas, Texas",1849
+120,CAG,31.799999237060547,34.040000915527344,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1919
+121,COP,74.56999969482422,64.61000061035156,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2002
+122,ED,81.55999755859375,90.19000244140625,Consolidated Edison,Utilities,Electric Utilities,"New York City, New York",1823
+123,STZ,233.8300018310547,188.3699951171875,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",1945
+124,COO,406.1700134277344,319.45001220703125,The Cooper Companies,Health Care,Health Care Supplies,"San Ramon, California",1958
+125,CPRT,150.6199951171875,90.86000061035156,Copart,Industrials,Diversified Support Services,"Dallas, Texas",1982
+126,GLW,38.22999954223633,29.010000228881836,Corning,Information Technology,Electronic Components,"Corning, New York",1851
+127,CTVA,47.75,28.860000610351562,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",2019
+128,COST,542.02001953125,295.1400146484375,Costco,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",1976
+129,CTRA,20.1200008392334,17.1299991607666,Coterra,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2021 (1989)
+130,CCI,192.14999389648438,141.39999389648438,Crown Castle,Real Estate,Specialized REITs,"Houston, Texas",1994
+131,CSX,37.09000015258789,72.33999633789062,CSX,Industrials,Railroads,"Jacksonville, Florida",1980
+132,CMI,219.77000427246094,179.16000366210938,Cummins,Industrials,Industrial Machinery,"Columbus, Indiana",1919
+133,CVS,92.93000030517578,73.69999694824219,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",1996
+134,DHI,106.16000366210938,52.54999923706055,D. R. Horton,Consumer Discretionary,Homebuilding,"Arlington, Texas",1978
+135,DHR,313.3500061035156,152.83999633789062,Danaher,Health Care,Health Care Equipment,"Washington, D.C.",1969
+136,DRI,148.1199951171875,108.95999908447266,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",1938
+137,DVA,103.12000274658203,74.08000183105469,DaVita,Health Care,Health Care Facilities,"Denver, Colorado",1979
+138,DE,361.3399963378906,174.16000366210938,Deere & Co.,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1837
+139,DAL,38.040000915527344,58.65999984741211,Delta Air Lines,Industrials,Airlines,"Atlanta, Georgia",1929
+140,XRAY,52.63999938964844,56.400001525878906,Dentsply Sirona,Health Care,Health Care Supplies,"Charlotte, North Carolina",2016 (1969)
+141,DVN,45.119998931884766,25.530000686645508,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",1971
+142,DXCM,558.4000244140625,216.19000244140625,DexCom,Health Care,Health Care Equipment,"San Diego, California",1999
+143,FANG,115.58999633789062,91.06999969482422,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2007
+144,DLR,167.4199981689453,118.30999755859375,Digital Realty Trust,Real Estate,Specialized REITs,"Austin, Texas",2004
+145,DFS,114.37999725341797,84.52999877929688,Discover Financial Services,Financials,Consumer Finance,"Riverwoods, Illinois",1985
+146,DISCA,24.219999313354492,32.7599983215332,Discovery (Series A),Communication Services,Broadcasting,"New York City, New York",1985
+147,DISCK,23.389999389648438,30.510000228881836,Discovery (Series C),Communication Services,Broadcasting,"New York City, New York",1985
+148,DISH,32.130001068115234,35.3849983215332,Dish Network,Communication Services,Cable & Satellite,"Meridian, Colorado",1980
+149,DG,224.5,157.35000610351562,Dollar General,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",1939
+150,DLTR,137.97999572753906,93.48999786376953,Dollar Tree,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",1986
+151,D,75.45999908447266,82.08000183105469,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",1983
+152,DPZ,537.4299926757812,293.25,Domino's Pizza,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",1960
+153,DOV,172.25,115.23999786376953,Dover Corporation,Industrials,Industrial Machinery,"Downers Grove, Illinois",1955
+154,DOW,54.86000061035156,54.34000015258789,Dow,Materials,Commodity Chemicals,"Midland, Michigan",2019
+155,DTE,115.01000213623047,129.02000427246094,DTE Energy,Utilities,Multi-Utilities,"Detroit, Michigan",1995
+156,DUK,101.16999816894531,90.79000091552734,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",1904
+157,DRE,61.400001525878906,34.380001068115234,Duke Realty Corp,Real Estate,Industrial REITs,"Indianapolis, Indiana",1972
+158,DD,77.54000091552734,62.290000915527344,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",2017
+159,DXC,31.450000762939453,36.58000183105469,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",2017
+160,EMN,113.56999969482422,78.3499984741211,Eastman Chemical,Materials,Diversified Chemicals,"Kingsport, Tennessee",1920
+161,ETN,170.58999633789062,94.93000030517578,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1911
+162,EBAY,67.2300033569336,35.79499816894531,eBay,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",1995
+163,ECL,230.75999450683594,191.6199951171875,Ecolab,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1923
+164,EIX,67.26000213623047,74.70999908447266,Edison International,Utilities,Electric Utilities,"Rosemead, California",1886
+165,EW,115.5199966430664,232.4199981689453,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",1958
+166,EA,126.1500015258789,106.93000030517578,Electronic Arts,Communication Services,Interactive Home Entertainment,"Redwood City, California",1982
+167,EMR,92.2300033569336,76.44000244140625,Emerson Electric,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1890
+168,ENPH,222.55999755859375,25.3700008392334,Enphase Energy,Information Technology,Electronic Components,"Fremont, California",2006
+169,ETR,104.8499984741211,119.27999877929688,Entergy,Utilities,Electric Utilities,"New Orleans, Louisiana",1913
+170,EOG,90.55999755859375,82.38999938964844,EOG Resources,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1999
+171,EFX,291.8599853515625,138.9199981689453,Equifax,Industrials,Research & Consulting Services,"Atlanta, Georgia",1899
+172,EQIX,812.8599853515625,580.239990234375,Equinix,Real Estate,Specialized REITs,"Redwood City, California",1998
+173,EQR,86.1500015258789,80.72000122070312,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",1969
+174,ESS,344.95001220703125,299.7099914550781,Essex Property Trust,Real Estate,Residential REITs,"San Mateo, California",1971
+175,EL,353.6400146484375,206.39999389648438,Estée Lauder Companies,Consumer Staples,Personal Products,"New York City, New York",1946
+176,ETSY,237.4499969482422,44.470001220703125,Etsy,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2005
+177,EVRG,66.66999816894531,64.2300033569336,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",1909
+178,ES,87.30000305175781,84.41000366210938,Eversource Energy,Utilities,Multi-Utilities,"Hartford, Connecticut",1966
+179,RE,270.8900146484375,277.45001220703125,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",1973
+180,EXC,53.91999816894531,45.380001068115234,Exelon,Utilities,Multi-Utilities,"Chicago, Illinois",2000
+181,EXPE,166.57000732421875,107.7699966430664,Expedia Group,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",1996
+182,EXPD,129.4499969482422,77.98999786376953,Expeditors,Industrials,Air Freight & Logistics,"Seattle, Washington",1979
+183,EXR,208.6999969482422,104.31999969482422,Extra Space Storage,Real Estate,Specialized REITs,"Salt Lake City, Utah",1977
+184,XOM,62.27000045776367,69.4800033569336,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",1999
+185,FFIV,232.1999969482422,139.2899932861328,F5,Information Technology,Communications Equipment,"Seattle, Washington",1996
+186,FAST,63.209999084472656,36.94499969482422,Fastenal,Industrials,Building Products,"Winona, Minnesota",1967
+187,FRT,131.72000122070312,128.4600067138672,Federal Realty Investment Trust,Real Estate,Retail REITs,"Rockville, Maryland",1962
+188,FDX,247.05999755859375,150.13999938964844,FedEx,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1971
+189,FIS,106.94999694824219,138.60000610351562,Fidelity National Information Services,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",1968
+190,FITB,44.08000183105469,30.549999237060547,Fifth Third Bancorp,Financials,Regional Banks,"Cincinnati, Ohio",1858
+191,FE,39.459999084472656,48.4900016784668,FirstEnergy,Utilities,Electric Utilities,"Akron, Ohio",1997
+192,FRC,213.5500030517578,117.37000274658203,First Republic Bank,Financials,Regional Banks,"San Francisco, California",1985
+193,FISV,103.12999725341797,115.47000122070312,Fiserv,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",1984
+194,FLT,220.14999389648438,286.260009765625,Fleetcor,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",2000
+195,FMC,107.0999984741211,99.22000122070312,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",1883
+196,F,19.959999084472656,9.25,Ford,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1903
+197,FTNT,317.239990234375,106.94999694824219,Fortinet,Information Technology,Systems Software,"Sunnyvale, California",2000
+198,FTV,75.0999984741211,76.27999877929688,Fortive,Industrials,Industrial Machinery,"Everett, Washington",2016
+199,FBHS,105.41999816894531,65.37999725341797,Fortune Brands Home & Security,Industrials,Building Products,"Deerfield, Illinois",2011 (1969)
+200,FOXA,36.47999954223633,37.08000183105469,Fox Corporation (Class A),Communication Services,Movies & Entertainment,"New York City, New York",2019
+201,FOX,33.95000076293945,36.439998626708984,Fox Corporation (Class B),Communication Services,Movies & Entertainment,"New York City, New York",2019
+202,BEN,32.97999954223633,25.81999969482422,Franklin Resources,Financials,Asset Management & Custody Banks,"San Mateo, California",1947
+203,FCX,38.77000045776367,13.010000228881836,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",1912
+204,GPS,17.3700008392334,17.81999969482422,Gap,Consumer Discretionary,Apparel Retail,"San Francisco, California",1969
+205,GRMN,136.44000244140625,97.94999694824219,Garmin,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",1989
+206,IT,316.010009765625,152.77000427246094,Gartner,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",1979
+207,GNRC,358.4200134277344,101.12000274658203,Generac Holdings,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",1959
+208,GD,199.32000732421875,176.00999450683594,General Dynamics,Industrials,Aerospace & Defense,"Falls Church, Virginia",1899
+209,GE,97.55000305175781,11.079999923706055,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",1892
+210,GIS,64.56999969482422,52.7400016784668,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1856
+211,GM,61.529998779296875,36.439998626708984,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",1908
+212,GPC,133.7899932861328,106.0199966430664,Genuine Parts,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1925
+213,GILD,69.6500015258789,64.93000030517578,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",1987
+214,GL,91.83999633789062,105.19000244140625,Globe Life,Financials,Life & Health Insurance,"McKinney, Texas",1900
+215,GPN,129.77000427246094,181.35000610351562,Global Payments,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2000
+216,GS,400.1099853515625,229.8000030517578,Goldman Sachs,Financials,Investment Banking & Brokerage,"New York City, New York",1869
+217,GWW,507.7200012207031,338.25,W. W. Grainger,Industrials,Industrial Machinery,"Lake Forest, Illinois",1927
+218,HAL,23.399999618530273,24.559999465942383,Halliburton,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1919
+219,HBI,17.399999618530273,14.739999771118164,Hanesbrands,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Winston-Salem, North Carolina",2000
+220,HIG,68.25,60.689998626708984,The Hartford,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1810
+221,HAS,100.11000061035156,105.18000030517578,Hasbro,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1923
+222,HCA,238.60000610351562,147.5500030517578,HCA Healthcare,Health Care,Health Care Facilities,"Nashville, Tennessee",1968
+223,PEAK,34.18000030517578,34.060001373291016,Healthpeak Properties,Real Estate,Health Care REITs,"Long Beach, California",1985
+224,HSIC,74.58000183105469,66.44000244140625,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",1932
+225,HSY,182.0,146.82000732421875,The Hershey Company,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1894
+226,HES,79.97000122070312,66.1500015258789,Hess Corporation,Energy,Integrated Oil & Gas,"New York City, New York",1919
+227,HPE,15.470000267028809,15.779999732971191,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015
+228,HLT,143.14999389648438,111.37000274658203,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",1919
+229,HOLX,76.1500015258789,51.86000061035156,Hologic,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1985
+230,HD,416.17999267578125,217.30999755859375,Home Depot,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1978
+231,HON,207.14999389648438,176.4199981689453,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1906
+232,HRL,42.43000030517578,45.0,Hormel,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",1891
+233,HST,16.579999923706055,18.6299991607666,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",1993
+234,HWM,30.829999923706055,30.8700008392334,Howmet Aerospace,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",2016
+235,HPQ,37.290000915527344,20.489999771118164,HP,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1939 (2015)
+236,HUM,433.010009765625,367.7699890136719,Humana,Health Care,Managed Health Care,"Louisville, Kentucky",1961
+237,HBAN,15.489999771118164,15.039999961853027,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",1866
+238,HII,184.69000244140625,251.80999755859375,Huntington Ingalls Industries,Industrials,Aerospace & Defense,"Newport News, Virginia",2011
+239,IEX,235.13999938964844,172.3300018310547,IDEX Corporation,Industrials,Industrial Machinery,"Lake Forest, Illinois",1988
+240,IDXX,611.4299926757812,261.6000061035156,Idexx Laboratories,Health Care,Health Care Equipment,"Westbrook, Maine",1983
+241,INFO,131.9199981689453,74.79000091552734,IHS Markit,Industrials,Research & Consulting Services,"London, England",1959
+242,ITW,239.97999572753906,179.91000366210938,Illinois Tool Works,Industrials,Industrial Machinery,"Glenview, Illinois",1912
+243,ILMN,369.42999267578125,328.1400146484375,Illumina,Health Care,Life Sciences Tools & Services,"San Diego, California",1998
+244,INCY,66.7300033569336,88.05000305175781,Incyte,Health Care,Biotechnology,"Wilmington, Delaware",1991
+245,IR,59.72999954223633,36.4900016784668,Ingersoll Rand,Industrials,Industrial Machinery,"Milwaukee, Wisconsin",1859
+246,INTC,52.56999969482422,59.619998931884766,Intel,Information Technology,Semiconductors,"Santa Clara, California",1968
+247,ICE,134.00999450683594,92.44000244140625,Intercontinental Exchange,Financials,Financial Exchanges & Data,"Atlanta, Georgia",2000
+248,IBM,121.58000183105469,132.80999755859375,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",1911
+249,IP,46.650001525878906,45.900001525878906,International Paper,Materials,Paper Packaging,"Memphis, Tennessee",1898
+250,IPG,35.43000030517578,23.079999923706055,Interpublic Group,Communication Services,Advertising,"New York City, New York",1961 (1930)
+251,IFF,145.11000061035156,126.95999908447266,International Flavors & Fragrances,Materials,Specialty Chemicals,"New York City, New York",1958 (1889)
+252,INTU,673.2999877929688,262.8399963378906,Intuit,Information Technology,Application Software,"Mountain View, California",1983
+253,ISRG,340.489990234375,591.3200073242188,Intuitive Surgical,Health Care,Health Care Equipment,"Sunnyvale, California",1995
+254,IVZ,23.389999389648438,17.93000030517578,Invesco,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",1935
+255,IPGP,169.1199951171875,143.4199981689453,IPG Photonics,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",1990
+256,IQV,270.29998779296875,153.4499969482422,IQVIA,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",1982
+257,IRM,48.060001373291016,31.690000534057617,Iron Mountain,Real Estate,Specialized REITs,"Boston, Massachusetts",1951
+258,JKHY,157.3699951171875,145.38999938964844,Jack Henry & Associates,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",1976
+259,J,143.50999450683594,89.62000274658203,Jacobs Engineering Group,Industrials,Construction & Engineering,"Dallas, Texas",1947
+260,JBHT,196.1699981689453,116.58000183105469,J. B. Hunt,Industrials,Trucking,"Lowell, Arkansas",1961
+261,SJM,130.22000122070312,103.1500015258789,JM Smucker,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",1897
+262,JNJ,163.36000061035156,145.3000030517578,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1886
+263,JCI,79.1500015258789,40.650001525878906,Johnson Controls,Industrials,Building Products,"Cork, Ireland",1885
+264,JPM,162.57000732421875,138.6300048828125,JPMorgan Chase,Financials,Diversified Banks,"New York City, New York",2000 (1799 / 1871)
+265,JNPR,32.65999984741211,24.5,Juniper Networks,Information Technology,Communications Equipment,"Sunnyvale, California",1996
+266,KSU,299.9800109863281,153.08999633789062,Kansas City Southern,Industrials,Railroads,"Kansas City, Missouri",1887
+267,K,63.08000183105469,68.77999877929688,Kellogg's,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",1906
+268,KEY,23.209999084472656,20.219999313354492,KeyCorp,Financials,Regional Banks,"Cleveland, Ohio",1825
+269,KEYS,202.42999267578125,102.18000030517578,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2014
+270,KMB,136.8800048828125,136.88999938964844,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",1872
+271,KIM,23.610000610351562,20.770000457763672,Kimco Realty,Real Estate,Retail REITs,"New Hyde Park, New York",1958
+272,KMI,16.229999542236328,21.030000686645508,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",1997
+273,KLAC,419.1499938964844,178.3699951171875,KLA Corporation,Information Technology,Semiconductor Equipment,"Milpitas, California",1975/1977 (1997)
+274,KHC,34.5099983215332,31.709999084472656,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015 (1869)
+275,KR,45.06999969482422,29.059999465942383,Kroger,Consumer Staples,Food Retail,"Cincinnati, Ohio",1883
+276,LHX,214.67999267578125,200.0800018310547,L3Harris Technologies,Industrials,Aerospace & Defense,"Melbourne, Florida",2019 (1895)
+277,LH,296.1099853515625,168.35000610351562,LabCorp,Health Care,Health Care Services,"Burlington, North Carolina",1978
+278,LRCX,706.1500244140625,292.5400085449219,Lam Research,Information Technology,Semiconductor Equipment,"Fremont, California",1980
+279,LW,56.41999816894531,85.44999694824219,Lamb Weston,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",2016 (1950)
+280,LVS,37.06999969482422,69.30000305175781,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",1988
+281,LEG,43.369998931884766,51.04999923706055,Leggett & Platt,Consumer Discretionary,Home Furnishings,"Carthage, Missouri",1883
+282,LDOS,89.81999969482422,98.06999969482422,Leidos,Industrials,Diversified Support Services,"Reston, Virginia",1969
+283,LEN,114.81999969482422,55.7400016784668,Lennar,Consumer Discretionary,Homebuilding,"Miami, Florida",1954
+284,LLY,245.11000061035156,131.3000030517578,Eli Lilly,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1876
+285,LNC,67.5,58.66999816894531,Lincoln National,Financials,Multi-line Insurance,"Radnor, Pennsylvania",1905
+286,LIN,330.6499938964844,211.49000549316406,Linde,Materials,Industrial Gases,"Guildford, England",1879
+287,LYV,108.62999725341797,71.20999908447266,Live Nation Entertainment,Communication Services,Movies & Entertainment,"Beverly Hills, California",2010
+288,LKQ,58.68000030517578,35.70000076293945,LKQ Corporation,Consumer Discretionary,Distributors,"Chicago, Illinois",1998
+289,LMT,339.1700134277344,391.8999938964844,Lockheed Martin,Industrials,Aerospace & Defense,"Bethesda, Maryland",1995
+290,L,56.849998474121094,52.0099983215332,Loews Corporation,Financials,Multi-line Insurance,"New York City, New York",1959
+291,LOW,256.9100036621094,120.05000305175781,Lowe's,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",1904/1946/1959
+292,LUMN,12.279999732971191,13.100000381469727,Lumen Technologies,Communication Services,Alternative Carriers,"Monroe, Louisiana",1983 (1877)
+293,LYB,90.11000061035156,94.08999633789062,LyondellBasell,Materials,Specialty Chemicals,"Rotterdam, Netherlands",2007
+294,MTB,152.7100067138672,169.4199981689453,M&T Bank,Financials,Regional Banks,"Buffalo, New York",1856
+295,MRO,16.309999465942383,13.420000076293945,Marathon Oil,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1887
+296,MPC,64.2300033569336,59.66999816894531,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",2009 (1887)
+297,MKTX,380.67999267578125,374.5,MarketAxess,Financials,Financial Exchanges & Data,"New York City, New York",2000
+298,MAR,156.52999877929688,151.8699951171875,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",1927
+299,MMC,172.5800018310547,111.83000183105469,Marsh & McLennan,Financials,Insurance Brokers,"New York City, New York",1905
+300,MLM,422.8599853515625,277.95001220703125,Martin Marietta Materials,Materials,Construction Materials,"Raleigh, North Carolina",1993
+301,MAS,68.5999984741211,48.09000015258789,Masco,Industrials,Building Products,"Livonia, Michigan",1929
+302,MA,339.510009765625,297.7200012207031,Mastercard,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",1966
+303,MTCH,134.4499969482422,250.07000732421875,Match Group,Communication Services,Interactive Media & Services,"Dallas, Texas",1986
+304,MKC,87.83000183105469,170.3800048828125,McCormick & Company,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",1889
+305,MCD,259.9100036621094,196.91000366210938,McDonald's,Consumer Discretionary,Restaurants,"Chicago, Illinois",1940
+306,MCK,224.57000732421875,137.1699981689453,McKesson Corporation,Health Care,Health Care Distributors,"Irving, Texas",1833
+307,MDT,112.2699966430664,112.93000030517578,Medtronic,Health Care,Health Care Equipment,"Dublin, Ireland",1949
+308,MRK,72.27999877929688,91.02999877929688,Merck,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1891
+309,FB,322.80999755859375,204.41000366210938,Meta Platforms,Communication Services,Interactive Media & Services,"Menlo Park, California",2004
+310,MET,60.529998779296875,50.70000076293945,MetLife,Financials,Life & Health Insurance,"New York City, New York",1868
+311,MTD,1566.1500244140625,791.9099731445312,Mettler Toledo,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",1945
+312,MGM,42.7400016784668,33.31999969482422,MGM Resorts International,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",1986
+313,MCHP,88.88999938964844,104.98999786376953,Microchip Technology,Information Technology,Semiconductors,"Chandler, Arizona",1989
+314,MU,85.83000183105469,53.209999084472656,Micron Technology,Information Technology,Semiconductors,"Boise, Idaho",1978
+315,MSFT,334.9200134277344,157.58999633789062,Microsoft,Information Technology,Systems Software,"Redmond, Washington",1975
+316,MAA,215.00999450683594,130.5500030517578,Mid-America Apartments,Real Estate,Residential REITs,"Memphis, Tennessee",1977
+317,MRNA,282.3500061035156,19.049999237060547,Moderna,Health Care,Biotechnology,"Cambridge, Massachusetts",2010
+318,MHK,179.3300018310547,135.3800048828125,Mohawk Industries,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",1878
+319,TAP,46.689998626708984,53.779998779296875,Molson Coors,Consumer Staples,Brewers,"Chicago, Illinois","2005 (Molson 1786, Coors 1873)"
+320,MDLZ,61.40999984741211,55.0,Mondelez International,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012
+321,MPWR,538.780029296875,178.38999938964844,Monolithic Power Systems,Information Technology,Semiconductors,"Kirkland, Washington",1997
+322,MNST,88.37000274658203,63.36000061035156,Monster Beverage,Consumer Staples,Soft Drinks,"Corona, California",2012 (1935)
+323,MCO,398.3999938964844,237.66000366210938,Moody's,Financials,Financial Exchanges & Data,"New York City, New York",1909
+324,MS,102.5,50.959999084472656,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York City, New York",1935
+325,MOS,35.869998931884766,21.030000686645508,The Mosaic Company,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2004 (1865 / 1909)
+326,MSI,254.97000122070312,160.9600067138672,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",1928 (2011)
+327,MSCI,637.0700073242188,256.9200134277344,MSCI,Financials,Financial Exchanges & Data,"New York City, New York",1969
+328,NDAQ,205.5500030517578,107.0199966430664,Nasdaq,Financials,Financial Exchanges & Data,"New York City, New York",1971
+329,NTAP,90.66999816894531,61.529998779296875,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals","Sunnyvale, California",1992
+330,NFLX,625.5800170898438,323.30999755859375,Netflix,Communication Services,Movies & Entertainment,"Los Gatos, California",1997
+331,NWL,22.709999084472656,19.1200008392334,Newell Brands,Consumer Discretionary,Housewares & Specialties,"Atlanta, Georgia",1903
+332,NEM,56.38999938964844,43.75,Newmont,Materials,Gold,"Denver, Colorado",1921
+333,NWSA,21.989999771118164,14.069999694824219,News Corp (Class A),Communication Services,Publishing,"New York City, New York",2013 (1980)
+334,NWS,22.239999771118164,14.460000038146973,News Corp (Class B),Communication Services,Publishing,"New York City, New York",2013 (1980)
+335,NEE,90.41000366210938,241.2899932861328,NextEra Energy,Utilities,Multi-Utilities,"Juno Beach, Florida",1984 (1925)
+336,NLSN,20.579999923706055,20.100000381469727,Nielsen Holdings,Industrials,Research & Consulting Services,"New York City, New York",1923
+337,NKE,171.2899932861328,100.80000305175781,Nike,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1964
+338,NI,25.829999923706055,27.520000457763672,NiSource,Utilities,Multi-Utilities,"Merrillville, Indiana",1912
+339,NSC,287.4599914550781,193.61000061035156,Norfolk Southern,Industrials,Railroads,"Norfolk, Virginia",1881/1894 (1980)
+340,NTRS,120.16999816894531,106.31999969482422,Northern Trust,Financials,Asset Management & Custody Banks,"Chicago, Illinois",1889
+341,NOC,362.6700134277344,349.07000732421875,Northrop Grumman,Industrials,Aerospace & Defense,"West Falls Church, Virginia","1994 (Northrop 1939, Grumman 1930)"
+342,NLOK,24.739999771118164,25.479999542236328,NortonLifeLock,Information Technology,Application Software,"Tempe, Arizona",1982
+343,NCLH,20.1200008392334,58.59000015258789,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2011 (1966)
+344,NRG,38.86000061035156,39.22999954223633,NRG Energy,Utilities,Independent Power Producers & Energy Traders,"Houston, Texas",1992
+345,NUE,114.01000213623047,56.08000183105469,Nucor,Materials,Steel,"Charlotte, North Carolina",1940
+346,NVDA,324.2699890136719,232.32000732421875,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",1993
+347,NVR,5671.3798828125,3823.0,NVR,Consumer Discretionary,Homebuilding,"Reston, Virginia",1980
+348,NXPI,238.89999389648438,127.55000305175781,NXP,Information Technology,Semiconductors,"Eindhoven, Netherlands",1953
+349,ORLY,672.7899780273438,437.510009765625,O'Reilly Automotive,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",1957
+350,OXY,31.1200008392334,40.70000076293945,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1920
+351,ODFL,364.0,188.4199981689453,Old Dominion Freight Line,Industrials,Trucking,"Thomasville, North Carolina",1934
+352,OMC,69.87999725341797,80.91000366210938,Omnicom Group,Communication Services,Advertising,"New York City, New York",1986
+353,OKE,62.68000030517578,75.41999816894531,Oneok,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1906
+354,ORCL,90.05000305175781,52.70000076293945,Oracle,Information Technology,Application Software,"Austin, Texas",1977
+355,PCAR,87.61000061035156,78.97000122070312,Paccar,Industrials,Construction Machinery & Heavy Trucks,"Bellevue, Washington",1905
+356,PKG,135.36000061035156,111.72000122070312,Packaging Corporation of America,Materials,Paper Packaging,"Lake Forest, Illinois",1959
+357,PH,314.4599914550781,205.75999450683594,Parker-Hannifin,Industrials,Industrial Machinery,"Cleveland, Ohio",1917
+358,PAYX,123.12999725341797,84.88999938964844,Paychex,Information Technology,Data Processing & Outsourced Services,"Penfield, New York",1971
+359,PAYC,435.3900146484375,262.4200134277344,Paycom,Information Technology,Application Software,"Oklahoma City, Oklahoma",1998
+360,PYPL,191.02000427246094,107.97000122070312,PayPal,Information Technology,Data Processing & Outsourced Services,"San Jose, California",1998
+361,PENN,51.439998626708984,25.5,Penn National Gaming,Consumer Discretionary,Casinos & Gaming,"Wyomissing, Pennsylvania",1972
+362,PNR,74.76000213623047,45.81999969482422,Pentair,Industrials,Industrial Machinery,"Worsley, England",1966
+363,PBCT,17.6200008392334,16.790000915527344,People's United Financial,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",1842
+364,PEP,166.22999572753906,136.80999755859375,PepsiCo,Consumer Staples,Soft Drinks,"Purchase, New York",1898
+365,PKI,185.57000732421875,96.66000366210938,PerkinElmer,Health Care,Health Care Equipment,"Waltham, Massachusetts",1937
+366,PFE,51.720001220703125,38.90999984741211,Pfizer,Health Care,Pharmaceuticals,"New York City, New York",1849
+367,PM,90.41000366210938,85.69999694824219,Philip Morris International,Consumer Staples,Tobacco,"New York City, New York",2008 (1847)
+368,PSX,72.4800033569336,110.37000274658203,Phillips 66,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012 (1917)
+369,PNW,66.55999755859375,89.25,Pinnacle West Capital,Utilities,Multi-Utilities,"Phoenix, Arizona",1985
+370,PXD,185.74000549316406,150.8699951171875,Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,"Irving, Texas",1997
+371,PNC,203.3000030517578,160.02000427246094,PNC Financial Services,Financials,Regional Banks,"Pittsburgh, Pennsylvania",1845
+372,POOL,563.1699829101562,214.94000244140625,Pool Corporation,Consumer Discretionary,Distributors,"Covington, Louisiana",1993
+373,PPG,166.27999877929688,132.9199981689453,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1883
+374,PPL,29.31999969482422,35.66999816894531,PPL,Utilities,Electric Utilities,"Allentown, Pennsylvania",1920
+375,PFG,71.22000122070312,54.650001525878906,Principal Financial Group,Financials,Life & Health Insurance,"Des Moines, Iowa",1879
+376,PG,151.75,124.47000122070312,Procter & Gamble,Consumer Staples,Personal Products,"Cincinnati, Ohio",1837
+377,PGR,96.80999755859375,72.31999969482422,Progressive Corporation,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1937
+378,PLD,159.3000030517578,88.86000061035156,Prologis,Real Estate,Industrial REITs,"San Francisco, California",1983
+379,PRU,105.75,92.87999725341797,Prudential Financial,Financials,Life & Health Insurance,"Newark, New Jersey",1875
+380,PTC,120.19999694824219,75.29000091552734,PTC,Information Technology,Application Software,"Boston, Massachusetts",1985
+381,PEG,64.62000274658203,58.66999816894531,Public Service Enterprise Group,Utilities,Electric Utilities,"Newark, New Jersey",1903
+382,PSA,340.260009765625,211.2100067138672,Public Storage,Real Estate,Specialized REITs,"Glendale, California",1972
+383,PHM,54.66999816894531,38.79999923706055,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1956
+384,PVH,104.44999694824219,104.01000213623047,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",1881
+385,QRVO,161.50999450683594,116.20999908447266,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",2015
+386,PWR,117.0,40.880001068115234,Quanta Services,Industrials,Construction & Engineering,"Houston, Texas",1997
+387,QCOM,183.72000122070312,88.43000030517578,Qualcomm,Information Technology,Semiconductors,"San Diego, California",1985
+388,DGX,160.13999938964844,106.3499984741211,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",1967
+389,RL,124.5199966430664,116.58000183105469,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",1967
+390,RJF,98.9000015258789,90.06999969482422,Raymond James Financial,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",1962
+391,RTX,85.01000213623047,149.8800048828125,Raytheon Technologies,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1922
+392,O,68.38999938964844,73.25,Realty Income Corporation,Real Estate,Retail REITs,"San Diego, California",1969
+393,REG,74.12999725341797,62.400001525878906,Regency Centers,Real Estate,Retail REITs,"Jacksonville, Florida",1963
+394,REGN,635.0900268554688,373.70001220703125,Regeneron Pharmaceuticals,Health Care,Biotechnology,"Tarrytown, New York",1988
+395,RF,22.8700008392334,17.1200008392334,Regions Financial Corporation,Financials,Regional Banks,"Birmingham, Alabama",1971
+396,RSG,135.60000610351562,90.0,Republic Services,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",1998 (1981)
+397,RMD,265.9100036621094,154.58999633789062,ResMed,Health Care,Health Care Equipment,"San Diego, California",1989
+398,RHI,109.26000213623047,62.880001068115234,Robert Half International,Industrials,Human Resource & Employment Services,"Menlo Park, California",1948
+399,ROK,350.760009765625,202.92999267578125,Rockwell Automation,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",1903
+400,ROL,32.4900016784668,32.880001068115234,Rollins,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",1948
+401,ROP,471.92999267578125,355.5799865722656,Roper Technologies,Industrials,Industrial Conglomerates,"Sarasota, Florida",1981
+402,ROST,113.0999984741211,116.5,Ross Stores,Consumer Discretionary,Apparel Retail,"Dublin, California",1982
+403,RCL,71.63999938964844,133.35000610351562,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1997
+404,SPGI,470.4599914550781,271.94000244140625,S&P Global,Financials,Financial Exchanges & Data,"New York City, New York",1917
+405,CRM,266.989990234375,162.44000244140625,Salesforce,Information Technology,Application Software,"San Francisco, California",1999
+406,SBAC,360.07000732421875,238.49000549316406,SBA Communications,Real Estate,Specialized REITs,"Boca Raton, Florida",1989
+407,SLB,30.760000228881836,40.400001525878906,Schlumberger,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",1926
+408,STX,108.5199966430664,59.290000915527344,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",1979
+409,SEE,64.41999816894531,39.40999984741211,Sealed Air,Materials,Paper Packaging,"Charlotte, North Carolina",1960
+410,SRE,126.91000366210938,151.0500030517578,Sempra Energy,Utilities,Multi-Utilities,"San Diego, California",1998
+411,NOW,663.3900146484375,282.80999755859375,ServiceNow,Information Technology,Systems Software,"Santa Clara, California",2003
+412,SHW,341.7699890136719,578.739990234375,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",1866
+413,SPG,156.25,147.58999633789062,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",2003
+414,SWKS,157.32000732421875,121.02999877929688,Skyworks Solutions,Information Technology,Semiconductors,"Woburn, Massachusetts",2002
+415,SNA,214.27000427246094,168.83999633789062,Snap-on,Industrials,Industrial Machinery,"Kenosha, Wisconsin",1920
+416,SO,64.47000122070312,63.34000015258789,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",1945
+417,LUV,45.209999084472656,54.08000183105469,Southwest Airlines,Industrials,Airlines,"Dallas, Texas",1967
+418,SWK,186.0500030517578,165.6699981689453,Stanley Black & Decker,Industrials,Industrial Machinery,"New Britain, Connecticut",1843
+419,SBUX,116.26000213623047,87.44000244140625,Starbucks,Consumer Discretionary,Restaurants,"Seattle, Washington",1971
+420,STT,94.9000015258789,79.87999725341797,State Street Corporation,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",1792
+421,STE,228.32000732421875,151.94000244140625,Steris,Health Care,Health Care Equipment,"Dublin, Ireland",1985
+422,SYK,260.54998779296875,208.72999572753906,Stryker Corporation,Health Care,Health Care Equipment,"Kalamazoo, Michigan",1941
+423,SIVB,716.780029296875,249.82000732421875,SVB Financial,Financials,Regional Banks,"Santa Clara, California",1983
+424,SYF,47.59000015258789,36.04999923706055,Synchrony Financial,Financials,Consumer Finance,"Stamford, Connecticut",2003
+425,SNPS,356.20001220703125,139.10000610351562,Synopsys,Information Technology,Application Software,"Mountain View, California",1986
+426,SYY,72.91999816894531,85.80000305175781,Sysco,Consumer Staples,Food Distributors,"Houston, Texas",1969
+427,TMUS,117.1500015258789,78.08000183105469,T-Mobile US,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",1994
+428,TROW,204.22000122070312,121.80999755859375,T. Rowe Price,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",1937
+429,TTWO,167.2899932861328,122.3499984741211,Take-Two Interactive,Communication Services,Interactive Home Entertainment,"New York City, New York",1993
+430,TPR,43.70000076293945,26.59000015258789,Tapestry,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2017
+431,TGT,245.6300048828125,128.88999938964844,Target,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",1902
+432,TEL,159.22000122070312,95.58000183105469,TE Connectivity,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",2007
+433,TDY,432.55999755859375,348.3699951171875,Teledyne Technologies,Industrials,Aerospace & Defense,"Thousand Oaks, California",1960
+434,TFX,321.80999755859375,371.3900146484375,Teleflex,Health Care,Health Care Equipment,"Wayne, Pennsylvania",1943
+435,TER,159.11000061035156,68.76000213623047,Teradyne,Information Technology,Semiconductor Equipment,"North Reading, Massachusetts",1960
+436,TSLA,1051.75,82.94000244140625,Tesla,Consumer Discretionary,Automobile Manufacturers,"Palo Alto, California",2003
+437,TXN,199.02999877929688,127.66000366210938,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",1930
+438,TXT,75.2300033569336,44.4900016784668,Textron,Industrials,Aerospace & Defense,"Providence, Rhode Island",1923
+439,TMO,628.7100219726562,325.0400085449219,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2006 (1902)
+440,TJX,74.12000274658203,61.16999816894531,TJX Companies,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1987
+441,TSCO,233.33999633789062,92.9000015258789,Tractor Supply Company,Consumer Discretionary,Specialty Stores,"Brentwood, Tennessee",1938
+442,TT,198.74000549316406,103.09542083740234,Trane Technologies,Industrials,Building Products,"Dublin, Ireland",1871
+443,TDG,603.3599853515625,562.010009765625,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",1993
+444,TRV,153.08999633789062,136.49000549316406,The Travelers Companies,Financials,Property & Casualty Insurance,"New York City, New York",1853
+445,TRMB,87.5999984741211,41.68000030517578,Trimble,Information Technology,Electronic Equipment & Instruments,"Sunnyvale, California",1978
+446,TFC,60.58000183105469,56.41999816894531,Truist Financial,Financials,Regional Banks,"Charlotte, North Carolina",1872
+447,TWTR,44.459999084472656,32.029998779296875,Twitter,Communication Services,Interactive Media & Services,"San Francisco, California",2006
+448,TYL,524.0599975585938,298.3599853515625,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",1966
+449,TSN,83.97000122070312,90.33999633789062,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",1935
+450,UDR,58.97999954223633,46.33000183105469,UDR,Real Estate,Residential REITs,"Highlands Ranch, Colorado",1972
+451,ULTA,407.70001220703125,251.35000610351562,Ulta Beauty,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",1990
+452,USB,57.689998626708984,59.16999816894531,U.S. Bancorp,Financials,Diversified Banks,"Minneapolis, Minnesota",1968
+453,UAA,24.450000762939453,21.280000686645508,Under Armour (Class A),Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",1996
+454,UA,20.760000228881836,18.989999771118164,Under Armour (Class C),Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",1996
+455,UNP,247.47000122070312,180.14999389648438,Union Pacific,Industrials,Railroads,"Omaha, Nebraska",1862
+456,UAL,43.40999984741211,87.95999908447266,United Airlines,Industrials,Airlines,"Chicago, Illinois",1967
+457,UNH,464.7300109863281,293.8500061035156,UnitedHealth Group,Health Care,Managed Health Care,"Minnetonka, Minnesota",1977
+458,UPS,205.38999938964844,116.44000244140625,United Parcel Service,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",1907
+459,URI,356.75,168.36000061035156,United Rentals,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",1997
+460,UHS,128.4199981689453,142.64999389648438,Universal Health Services,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",1979
+461,VLO,71.62999725341797,92.87999725341797,Valero Energy,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",1980
+462,VTR,49.41999816894531,57.97999954223633,Ventas,Real Estate,Health Care REITs,"Chicago, Illinois",1998
+463,VRSN,244.27999877929688,192.3300018310547,Verisign,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",1995
+464,VRSK,225.44000244140625,147.5500030517578,Verisk Analytics,Industrials,Research & Consulting Services,"Jersey City, New Jersey",1971
+465,VZ,50.790000915527344,61.209999084472656,Verizon Communications,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983 (1877)
+466,VRTX,205.22000122070312,218.97000122070312,Vertex Pharmaceuticals,Health Care,Biotechnology,"Cambridge, Massachusetts",1989
+467,VFC,76.86000061035156,99.55999755859375,VF Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",1899
+468,VIAC,31.3799991607666,41.47999954223633,ViacomCBS,Communication Services,Movies & Entertainment,"New York City, New York",2019 (1952)
+469,VTRS,12.399999618530273,19.43000030517578,Viatris,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",1961
+470,V,207.3699951171875,187.8300018310547,Visa,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",1958
+471,VNO,42.279998779296875,65.63999938964844,Vornado Realty Trust,Real Estate,Office REITs,"New York City, New York",1982
+472,VMC,199.75999450683594,142.52999877929688,Vulcan Materials,Materials,Construction Materials,"Birmingham, Alabama",1909
+473,WRB,79.7699966430664,68.62999725341797,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",1967
+474,WAB,91.4800033569336,77.5999984741211,Wabtec,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",1999 (1869)
+475,WMT,138.5500030517578,119.4000015258789,Walmart,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1962
+476,WBA,48.22999954223633,58.90999984741211,Walgreens Boots Alliance,Consumer Staples,Drug Retail,"Deerfield, Illinois",2014
+477,DIS,150.80999755859375,143.77000427246094,The Walt Disney Company,Communication Services,Movies & Entertainment,"Burbank, California",1923
+478,WM,164.25,113.7699966430664,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",1968
+479,WAT,344.1000061035156,233.19000244140625,Waters Corporation,Health Care,Health Care Distributors,"Milford, Massachusetts",1958
+480,WEC,92.33999633789062,92.16999816894531,WEC Energy Group,Utilities,Electric Utilities,"Milwaukee, Wisconsin",1896
+481,WFC,50.25,53.599998474121094,Wells Fargo,Financials,Diversified Banks,"San Francisco, California",1852
+482,WELL,84.77999877929688,81.01000213623047,Welltower,Real Estate,Health Care REITs,"Toledo, Ohio",1970
+483,WST,429.9700012207031,150.80999755859375,West Pharmaceutical Services,Health Care,Health Care Supplies,"Exton, Pennsylvania",1923
+484,WDC,59.16999816894531,62.380001068115234,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1970
+485,WU,17.329999923706055,26.780000686645508,Western Union,Information Technology,Data Processing & Outsourced Services,"Englewood, Colorado",1851
+486,WRK,45.189998626708984,42.599998474121094,WestRock,Materials,Paper Packaging,"Atlanta, Georgia",2015
+487,WY,39.349998474121094,29.93000030517578,Weyerhaeuser,Real Estate,Specialized REITs,"Seattle, Washington",1900
+488,WHR,229.61000061035156,146.22000122070312,Whirlpool Corporation,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",1911
+489,WMB,27.760000228881836,23.200000762939453,Williams Companies,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1908
+490,WLTW,231.61000061035156,201.5800018310547,Willis Towers Watson,Financials,Insurance Brokers,"London, England",2016
+491,WYNN,86.44000244140625,139.3800048828125,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2002
+492,XEL,66.04000091552734,63.290000915527344,Xcel Energy,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1909
+493,XLNX,223.80999755859375,97.68000030517578,Xilinx,Information Technology,Semiconductors,"San Jose, California",1984
+494,XYL,124.16999816894531,78.73999786376953,Xylem,Industrials,Industrial Machinery,"White Plains, New York",2011
+495,YUM,131.3000030517578,100.63999938964844,Yum! Brands,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997
+496,ZBRA,605.4400024414062,254.11000061035156,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",1969
+497,ZBH,128.42999267578125,148.75,Zimmer Biomet,Health Care,Health Care Equipment,"Warsaw, Indiana",1927
+498,ZION,64.44000244140625,51.77000045776367,Zions Bancorp,Financials,Regional Banks,"Salt Lake City, Utah",1873
+499,ZTS,225.6999969482422,132.2100067138672,Zoetis,Health Care,Pharmaceuticals,"Parsippany, New Jersey",1952
